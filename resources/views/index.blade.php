@@ -119,7 +119,7 @@ $jumbotron = get_section_data('JUMBOTRON');
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Mentoring</a></h4>
+              <h4 class="title"><a href="">Mentor</a></h4>
               <p class="description">Kamu akan berbicara dengan Mentor Terlatih untuk mencari solusi masalah bersama.</p>
             </div>
           </div>
